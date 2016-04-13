@@ -1,0 +1,4 @@
+
+JAR -- JAVA Archive
+WAR	-- Web Archive - Java classes + web related files(CSS, HTML, JSP..)
+EAR -- Enterprise Archive - Enterprise Components (EJB's) + JAR's + WAR

@@ -1,0 +1,16 @@
+org\jnit\domain\Author.class
+org\jnit\jdbc\JdbcManyToManyRelationships.class
+org\jnit\jdbc\TransactionDemo.class
+org\jnit\jdbc\JdbcOneToOneRelationships.class
+org\jnit\domain\Customer.class
+org\jnit\jdbc\JdbcOneToManyRelationships.class
+org\jnit\domain\Books.class
+org\jnit\domain\Order.class
+org\jnit\jdbc\SavePointDemo.class
+org\jnit\domain\Reviewer.class
+com\test\Test.class
+org\jnit\jdbc\JdbcMain.class
+org\jnit\jdbc\StoredProcedure_1.class
+org\jnit\domain\PhoneInformation.class
+org\jnit\domain\Task.class
+org\jnit\domain\OrderStatus.class
